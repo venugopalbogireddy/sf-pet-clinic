@@ -5,17 +5,19 @@
     <parent>
         <artifactId>sf-pet-clinic</artifactId>
         <groupId>com.vb</groupId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.2-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>pet-clinic-web</artifactId>
 
+    <!--<name>pet-clinic-web</name>-->
+
     <dependencies>
         <dependency>
             <artifactId>pet-clinic-data</artifactId>
             <groupId>com.vb</groupId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.0.2-SNAPSHOT</version>
         </dependency>
 
         <dependency>
